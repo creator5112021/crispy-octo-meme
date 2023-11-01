@@ -1,0 +1,27 @@
+body
+{
+    background-color:#cfd9ff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.heading{
+    background-color: rgb(19, 169, 255);
+    font-size: 30px;
+    position: fixed;
+    width: 100%;
+}
+.Instructions{
+    background-color:  rgb(19, 169, 255);
+    float: right;
+    font-size: 25px;
+}
+canvas{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.footer{
+    background-color: rgb(255, 255, 255);
+    line-height: 2;
+    margin: 0px;
+    text-align: center;
+    position: fixed;
+    margin-top: 44px;
+}
